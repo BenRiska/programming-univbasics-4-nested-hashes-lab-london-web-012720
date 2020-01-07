@@ -16,6 +16,7 @@ def hopper
         }
      }
 
+p programmer_hash[alan_kay]
 
 end
 
